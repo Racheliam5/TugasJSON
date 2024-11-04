@@ -1,0 +1,30 @@
+[
+  {
+    "IdProduk": 3,
+    "KodeProduk": "BAJ002",
+    "NamaProduk": "Kemeja Flanel",
+    "Tahun": 2023,
+    "Varian": "Lengan Panjang",
+    "Ukuran": "L",
+    "Warna": "Merah Kotak-kotak",
+    "HargaModal": "100000",
+    "HargaJual": "150000",
+    "HargaDiskon": "135000",
+    "Stok": 50,
+    "Spesifikasi": "Bahan flanel lembut, cocok untuk casual atau formal"
+  },
+  {
+    "IdProduk": 4,
+    "KodeProduk": "BAJ003",
+    "NamaProduk": "Jaket Hoodie",
+    "Tahun": 2023,
+    "Varian": "Hoodie",
+    "Ukuran": "XL",
+    "Warna": "Abu-abu",
+    "HargaModal": "120000",
+    "HargaJual": "170000",
+    "HargaDiskon": "155000",
+    "Stok": 30,
+    "Spesifikasi": "Bahan fleece, memiliki kantong depan, nyaman untuk cuaca dingin"
+  }
+]
